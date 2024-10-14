@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/css" href="css.css"?>
+<?xml-stylesheet type="text/css" href="css_primjer.css"?>
 <tv_program oznaka_programa="navečer">
   <naslov>TV Program</naslov>
   <dan>Utorak</dan>
