@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="css.css"?>
+<tv_program oznaka_programa="navečer">
+  <naslov>TV Program</naslov>
+  <dan>Utorak</dan>
+  <datum>02.11.2010.</datum>
+  <tv_raspored>
+    <program>rtl</program>
+    <emisija oznaka="serija">
+      <vrijeme>20.00</vrijeme>
+      <naziv> 1001 noć</naziv>
+      <tip>dramska serija</tip>
+      <opis>
+        Epizoda 97 Nakon što je usporedio svoju i majčinu krv, Kerem dozna da Seval nije njegova biološka majka. I dok on zbog toga proživljava krizu identiteta, Seval je shrvana jer je otkrivena tajna koju je godinama krila od svih, no ipak pred svima ispriča istinu o Keremovoj pravoj majci. Benu pokušava umiriti Kerema, koji upada u sve dublju psihološku krizu. Nadida i Burhan posvađaju se zbog Fusun koja se ne želi odreći svojih starijih kćeri. Još više ih iznenadi posjet jedne gošće, Arzine sestre Ahu. Onur daje sve od sebe kako bi mu Šeherezada oprostila laž.
+        Epizoda 98 Kerem sazna ime svog biološkog oca, profesora gitare koji je zaveo njegovu biološku majku. No umjesto da o tome razgovara sa suprugom Benu, Kerem se izolira i sam donese važne životne odluke. Buket i Burdžu jako nedostaje Fusun, no čim saznaju da im se roditelji rastaju, djevojčice najveću potporu traže u Ahi. Umjesto da dostavi veću količinu novca kolegi arhitektu, Ganija će uhvatiti razbojnici, prebiti ga i pokrasti, a to će narušiti Šeherezadino i Burhanovo povjerenje u njega. Peride se nije riješila svoje prošlosti pa ponovno uvali Handan u nevolje. Ovaj put se Ali Kemal i Jaman posvađaju pred Onurom i Burhanom. Onur ponovno iznenadi Šeherezadu...
+      </opis>
+      <broj_epizode>97, 98</broj_epizode>
+    </emisija>
+    <emisija>
+      <vrijeme>21.30</vrijeme>
+      <naziv> Jezikova juha II.</naziv>
+      <tip>reality show</tip>
+      <opis>
+        Iako je Istra poznata kao vrhunsko gastronomsko središte, obiteljsko gospodarstvo „Leader“ iz Lupoglava očito nema pravog vođu. Ponuda obiteljskog imanja, restoran, bazen i jahački klub očito ne zadovoljavaju standarde pravih poznavatelja gastronomije. Temperamentni i konfliktni vlasnik već je prvi dan sa Stephanom odlučio krenuti težim putem. Naime, odlučio je ne štedjeti nikoga pa je tako psovkama i nekulturnim ponašanjem „častio“ Stephana na svakom koraku restorana. U jednom trenutku čak mu je rekao da nema mozga i da je glupan. Prilikom ulaska u skladište Stephan se jedva suzdržao od povraćanja zbog neugodnih mirisa ustajalog mesa i životinjske krvi, smeća i opušaka koji su se nalazili posvuda. Naravno da Stephan nije bio ravnodušan na neprimjereno ponašanje vlasnika restorana, ali mu je na smireni način pokušao uputiti kritiku i usmjeriti ga prema onome što najbolje zna. Nakon što mu je ukazao na probleme, vlasnik se naljutio i napustio restoran. Iako se jedan od konobara već susreo sa Stephanom u prvoj sezoni u jednom restoranu u Rijeci, očito je da ništa nije naučio, a kamoli zapamtio. Sva sreća da je Stephan bio sit jer su sva tri jela koja je kuhar napravio bila je nejestiva.
+      </opis>
+      <broj_epizode>6</broj_epizode>
+    </emisija>
+    <emisija>
+      <vrijeme>22.30</vrijeme>
+      <naziv> Slučajni turist</naziv>
+      <tip>putopisni show</tip>
+      <opis>
+        Još otkad je u 4. srednje pročitao klasik “Heidi”, Robert je Knjaz maštao o tome da upozna pravu švicarsku brđanku i odvede je u najniži kraj jedine mu domovine – Baranju. To mu je napokon uspjelo u novoj epizodi “Slučajnog turista”. Čim je nogom stupila na močvarno baranjsko tlo, Andrea Morph postala je poput Heidi iz nizine: usporedila je baranjske i švicarske krave, otkrila prednosti slame nad glečerima, okusila sve nijanse ljutog i preuzela odgovornu dužnost strašila. Hoće li ova epizoda nadmašiti klasik kojim se nadahnula, teško je reći i kazati.
+      </opis>
+    </emisija>
+    <emisija oznaka="serija">
+      <vrijeme>23.25</vrijeme>
+      <naziv> Instruktor</naziv>
+      <tip>humoristična serija</tip>
+      <opis>
+        Nakon što su se Instruktor i Marjan stvorili u najdubljem riječnom klancu u Europi, na tromeđi Bosne, Srbije i Crne Gore, završili su u Sarajevu, na crvenom tepihu filmskog festivala! Ondje je Instruktor došao na ideju da se pretvaraju da su novinari koji rade reportaže o festivalu pa su čak uspjeli intervjuirati neke poznate sudionike. No uživljeni u nove uloge nisu primijetili da su se najednom našli na Baščaršiji. Nakon što shvate da su previše vremena proveli u Sarajevu, zamole slučajne prolaznike da im pokažu gdje je kolodvor. No naizgled obični prolaznici - to nisu bili! Instruktor i Marjan našli su se licem u lice sa svojim bosanskim dvojnicima pred bosanskom autoškolom. Ipak, za razliku od Instruktora koji je pričljiv, ovaj bosanski je tih kao bubica, dok je polaznik BiH autoškole potpuna suprotnost Marjanu i priča 'sto na sat'. Druženje je moralo biti prekinuto jer su se naši junaci odlučili zaputiti u Hrvatsku.
+      </opis>
+    </emisija>
+  </tv_raspored>
+  <tv_raspored>
+    <program>nova</program>
+    <emisija oznaka="sport">
+      <vrijeme>20.40</vrijeme>
+      <naziv> Liga prvaka: Tottenham - Inter</naziv>
+      <tip>sportska emisija</tip>
+      <opis>
+        Gostovanje Intera na White Heart Laneu jedna je od najvažnijih utakmica novije generacije nogometnog kluba Tottenhama. Londonski Pijetlovi u svom premijernom nastupu u Ligi prvaka dočekuju aktualnog prvaka Europe, a eventualni trijumf može im širom otvoriti vrata osmine finala. Tottenham uoči dvoboja s Interom ima dva boda prednosti pred Werderom i Twenteom, te bi pobjeda pa čak i bod protiv Talijana značila veliki korak prema tom cilju. Iako su na San Siru vrlo rano primi četiri gola, Pijetlovi inspiraciju za uzvrat traže u hat-tricku Garetha Balea u nastavku utakmice koji je potvrdio određene slabosti u igri Intera. Od hrvatskih nogometaša Luka Modrić sigurno će dirigirati igrom Spursa, a oporavi li se od ozljede susret bi mogao započeti i Vedran Ćorluka. Niko Kranjčar i Stipe Pletikosa priliku će vjerojatno čekati s klupe.
+      </opis>
+    </emisija>
+    <emisija>
+      <vrijeme>22.50</vrijeme>
+      <naziv> Večernje vijesti</naziv>
+      <tip>informativni program</tip>
+    </emisija>
+    <emisija>
+      <vrijeme>23.05</vrijeme>
+      <naziv> Mr. Bean</naziv>
+      <tip>humoristična serija</tip>
+      <opis>
+        Mr. Bean igra mini golf i pritom se ne zabavlja. Na kraju loptu gura preko cijeloga grada ne bi li je vratio na teren. Potom pokušava oprati robu, te upoznaje majstora borilačkih vještina. Izgubivši hlače među rubljem druge osobe, prisiljen je nositi dugu suknju.
+      </opis>
+      <broj_epizode>12</broj_epizode>
+    </emisija>
+    <emisija oznaka="sport">
+      <vrijeme>23.30</vrijeme>
+      <naziv> Sažeci lige prvaka</naziv>
+      <tip>sportska emisija</tip>
+      <opis></opis>
+    </emisija>
+  </tv_raspored>
+  <tv_raspored>
+    <program>hrt2</program>
+    <emisija oznaka="film">
+      <vrijeme>20.00</vrijeme>
+      <naziv> Brzina</naziv>
+      <tip>akcija avantura</tip>
+      <opis>
+        "Brzina" je pametan, inventivan triler koji započinje s taocima zarobljenim u liftu, nastavlja se potjerom autobusom i završava jurnjavom u podzemnoj željeznici. Ovaj je film krcat akcijom od početka do kraja: specijalnim efektima, uzbuđenjem i sjajnim kaskaderskim podvizima. Sve smo to već vidjeli, no rijetko kad napravljeno toliko dobro i s toliko nabijene energije.
+      </opis>
+      <opis_filma>
+        <orginalan_naziv> (Speed)</orginalan_naziv>
+        <izrada>SAD</izrada>
+        <godina>1994</godina>
+        <reziser>Režija: Jan de Bont</reziser>
+        <scenarij>Scenarij: Graham Yost</scenarij>
+        <glumci> Uloge: Keanu Reeves, Dennis Hopper, Sandra Bullock, Joe Morton, Jeff Daniels</glumci>
+      </opis_filma>
+    </emisija>
+    <emisija oznaka="serija">
+      <vrijeme>21.55</vrijeme>
+      <naziv> CSI: Las Vegas 9</naziv>
+      <tip>kriminalistička serija</tip>
+      <opis>
+        U nastavku priče koja je započela u prošloj epizodi patolog dr. Raymond Langston pomaže Grissomu da riješi slučaj ubojstva i otmice. Zločini su možda povezani sa serijskim ubojicom koji je video vezom iz zatvora sudjelovao na Langstonovom seminaru. Grissom, koji zauvijek napušta kriminalistički laboratorij, nudi Langstonu posao.
+      </opis>
+    </emisija>
+    <emisija oznaka="serija">
+      <vrijeme>22.45</vrijeme>
+      <naziv> 24</naziv>
+      <tip>akcijska serija</tip>
+      <opis>
+        Nakon što joj se podastru dokazi o Olivijinome djelovanju, predsjednica Allison Taylor mora odabrati između predsjedništva i obitelji. Zahvaljujući Kim Bauer, Janis, Renee i Chloe uspiju spasiti Jacka i uhititi Tonyja prije nego što on ubije Alana Wilsona.
+      </opis>
+    </emisija>
+    <emisija>
+      <vrijeme>23.30</vrijeme>
+      <naziv> Dnevnik plavuše: p.s. mama, volim te</naziv>
+      <tip>emisija pod pokroviteljstvom</tip>
+    </emisija>
+    <emisija oznaka="serija">
+      <vrijeme>23.40</vrijeme>
+      <naziv> Završni udarac 2</naziv>
+      <tip>dramska serija</tip>
+      <opis>
+        U drugoj sezoni serije "Završni udarac" ponovno pratimo pokušaje jedne od vodećih američkih istražiteljica da se uhvati ukoštac, kako sa svojim privatnim, tako i s profesionalnim životom. Detektivku Brendu Leigh Johnson tumači Kyra Sedgwick, koja je za tu ulogu bila nominirana za nagradu Zlatni globus i Screen Actors Guild Award. Brenda Leigh Johnson na čelu je elitne detektivske jedinice koja je zadužena za slučajeve visokoga rizika. Brendin tim nije osobito oduševljen njezinim nekonvencionalnim stilom pa ona na poslu teško izbjegava sukobe. Slična situacija vlada i u njezinome privatnome životu u kojem pokušava graditi odnos sa specijalnim agentom FBI-a Fritzom Howardom. Brendi je na prvome mjestu, međutim, uvijek posao. Njezina nadarenost da prodre u tuđu psihu tu dolazi do punoga izražaja pa neprestano dobiva priznanja o kojima drugi mogu tek sanjati. Tako istančan osjećaj za ljude kod Brende proizlazi upravo iz njezina razumijevanja vlastitih neuroza i nesavršenosti, ali i iz uvjerenja da se nikada ne smije odustati od nalaženja istine. U drugoj sezoni Brenda doživljava neke značajne promjene, a isto se događa i mnogima oko nje. Veza s Fritzom produbljuje se, a kada iznenada zapadne u krizu, Brenda će se kao i obično okrenuti poslu koji joj, kadgod život postane preturbulentnim, nudi sigurnu luku. Gledatelji će saznati i mnogo više o životima ljudi iz Brendina tima, o njezinu šefu Willu Popeu s kojime je nekada bila u vezi, o njezinoj desnoj ruci Davidu Gabrielu i drugima. 1. epizoda Brenda vodi istragu nakon što strada policajac losanđeleske policije koji je istraživao slučaj krijumčarenja drogom. Situacija se zakomplicira nakon što Brenda dozna neke tajne iz policajčeva života. U privatnome životu, za razliku od Popea, Brenda postiže sve veću stabilnost budući da se njezina veza s Fritzom produbljuje.
+      </opis>
+    </emisija>
+  </tv_raspored>
+  <tv_raspored>
+    <program>hrt1</program>
+    <emisija>
+      <vrijeme>20.01</vrijeme>
+      <naziv> Vrijeme</naziv>
+      <tip></tip>
+      <opis></opis>
+      
+    </emisija>
+    <emisija>
+      <vrijeme>20.04</vrijeme>
+      <naziv> ZABA - 90 sekundi</naziv>
+      <tip>emisija pod pokroviteljstvom</tip>
+    </emisija>
+    <emisija oznaka="serija">
+      <vrijeme>20.10</vrijeme>
+      <naziv> Konvoj Libertas: Kamen</naziv>
+      <tip>dokumentarna serija</tip>
+      <opis>
+        "Konvoj Libertas" zajednički je naziv za tri veličanstvene civilne akcije, po smjeloj ideji i ratnom uspjehu nezabilježene u ratničkoj povijesti čovječanstva - kako su ocijenili znalci. Brodovi, i ljudi na njima, zaplovili su prema Slobodi - obraniti njeno ponižavanje i ugroženost u divnom, svetom gradu Dubrovniku. Prije 500 godina u njemu je Ivan Gundulić napisao najljepšu Himnu slobodi, jer je tako mala slavna Republika živjela. 1991. horde divljaka i luđaka opkolile su grad. Za hrvatski narod, izmrcvaren patnjama Vukovara i ostalih ratišta, Dubrovnik je bio suza koja je prelila strpljenje. Serija autorice "Škrinje" Branke Šeparović pokušat će prikazati čudesan događaj u kojem su ljudi tako različiti (i prije i poslije Konvoja) na putovanju s plemenitom namjerom i pravim ciljem postali braća, svi kao jedan. Naša je snaga bila jača od njihovog oružja. Nismo se bojali jer smo bili sigurni da ćemo probiti blokadu i preživjeti. Autorica je svakoj priči o svakom konvoju dala i poseban naslov. Prvi je "Kamen", jer je posvećen istraživanju fenomena naroda, povijesti ispisane u kamenu, i onda kako se u 20. stoljeću dogodilo da se sve to ukrca u proboj za spas Dubrovnika. Drugi je "Vatra" jer se promišlja o tome kako je Einstein u pravu kad kaže da je šibica najveći izum čovječanstva. Ali na primjeru Dubrovnika pokazuje se da jedan narod vatru koristi kako bi zapalio baklju pred kazalištem i time označio predstavu, a drugi narod iz topova i bombardera zapali Grad. Treći je "Barjak", posvećen konvoju koji je u Dubrovnik na ratnu Festu sv. Vlaha doveo zagrebačkog nadbiskupa, 12 biskupa i 50 barjaka, župnika i župljana iz cijele Hrvatske. Naime, barjaci iz dubrovačke okolice uglavnom su svi uništeni u ratu, a nema prave Feste bez mimohoda i blagoslova barjaka. Zapravo, suština konvoja Libertas bio je hrvatski barjak na jarbolima brodova koji ih je pretvorio u nepobjedive lađe. U emisiji će biti korišteni jedini arhivski materijali koji su relevantni za priču o Konvoju Libertas, oni su nastali od brojnih ekipa Hrvatske televizije koje su također riskirale život da bi kadrove snimile. Poslije emitiranja emisije cijela dokumentacija bit će predana Hrvatskom državnom arhivu, pa neka čuva za buduće generacije uspomenu što sve Hrvati mogu kada plove zajedno na istom brodu pod zastavom Libertas.
+      </opis>
+    </emisija>
+    <emisija>
+      <vrijeme>21.10</vrijeme>
+      <naziv> Država, selo, grad</naziv>
+      <tip>glazbeni show</tip>
+      <opis>
+        U emisiji sudjeluju Petrinja i Pakovo Selo. VIP gosti su Jasna Zlokić i Jole.
+      </opis>
+    </emisija>
+    <emisija>
+      <vrijeme>22.25</vrijeme>
+      <naziv> Živjeti zdravije</naziv>
+      <tip>emisija pod pokroviteljstvom</tip>
+    </emisija>
+    <emisija>
+      <vrijeme>22.30</vrijeme>
+      <naziv> Dnevnik 3</naziv>
+      <opis>
+      </opis>
+    </emisija>
+    <emisija oznaka="sport">
+      <vrijeme>22.55</vrijeme>
+      <naziv> Sport</naziv>
+      <opis></opis>
+    </emisija>
+    <emisija>
+      <vrijeme>22.58</vrijeme>
+      <naziv> Vrijeme</naziv>
+    </emisija>
+    <emisija>
+      <vrijeme>23.00</vrijeme>
+      <naziv> Vijesti iz kulture</naziv>
+    </emisija>
+    <emisija>
+      <vrijeme>23.10</vrijeme>
+      <naziv> Lica nacije</naziv>
+      <tip></tip>
+      <opis>
+        Tko plaća najveću cijenu zlouporaba političke, financijske i medijske vlasti i moći u Hrvatskoj i zašto je to tako? O tome će u Licima nacije govoriti Nino Raspudić, Srećko Jurdana i Zvonimir Despot.
+      </opis>
+    </emisija>
+  </tv_raspored>
+</tv_program>
