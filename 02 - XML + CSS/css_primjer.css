@@ -1,0 +1,97 @@
+tv_raspored { 
+    width: 800px; 
+    display: table; 
+}
+
+program { 
+    font-size: 150%; 
+    display: table-row; 
+    color: White; 
+    text-align: center; 
+    text-transform: uppercase; 
+    background-color: Red; 
+    padding-top: 50px; 
+    font-weight: bold; 
+    padding: 5px; 
+}
+
+tv_program { 
+    display: block; 
+    width: 800px; 
+    margin-right: auto; 
+    margin-left: auto; 
+    font-family: Arial, Verdana, Sans-Serif; 
+    vertical-align: top; 
+}
+
+naslov { 
+    text-align: center; 
+    display: block; 
+    font-size: 200%; 
+}
+
+dan, datum { 
+    display: inline; 
+    text-align: center; 
+    font-size: 100%; 
+}
+
+emisija { 
+    display: table-row; 
+}
+
+emisija[oznaka=serija]:after { 
+    content: attr(oznaka); 
+    font-size: 90%; 
+    color: White; 
+    background-color: Blue; 
+}
+
+emisija[oznaka=film]:after { 
+    content: attr(oznaka); 
+    color: White; 
+    background-color: Red; 
+    font-size: 90%; 
+}
+
+emisija[oznaka=sport]:after { 
+    font-size: 90%; 
+    color: White; 
+    background-color: Green; 
+    content: attr(oznaka); 
+    text-align: right; 
+}
+
+vrijeme, naziv, tip, opis, broj_epizode { 
+    display: table-cell; 
+    padding: 0px 10px 0px 0px; 
+    font-size: 90%; 
+}
+
+vrijeme { 
+    font-weight: bold; 
+    width: 10%; 
+}
+
+naziv { 
+    color: Blue; 
+    width: 15%; 
+}
+
+tip { 
+    font-style: italic; 
+    color: Gray; 
+    width: 15%; 
+}
+
+opis { 
+    text-align: justify; 
+}
+
+opis_filma { 
+    display: none; 
+}
+
+broj_epizode:before { 
+    content: "br. ep. "; 
+}
