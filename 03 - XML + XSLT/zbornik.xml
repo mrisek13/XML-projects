@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transformacija.xslt"?>
+<zbornik>
+    <sadrzaj>
+        <rad>
+            <rb>1</rb>
+            <autor>Prof. dr. sc. Marcel Meler</autor>
+            <fakultetPoduzece>Ekonomski fakultet u Osijeku</fakultetPoduzece>
+            <naslov>KONTINENTALNI GOSPODARSKI RESURSI U FUNKCIJI RAZVITKA TURIZMA – JUČER, DANAS I SUTRA</naslov>
+        </rad>
+        <rad>
+            <rb>2</rb>
+            <autor>Prof. dr. sc. Drago Ružić</autor>
+            <fakultetPoduzece>Ekonomski fakultet u Osijeku</fakultetPoduzece>
+            <naslov>POTREBE I MOGUĆNOSTI IMPLEMENTACIJE INFORMATIČKE TEHNOLOGIJE U OPSKRBI HRVATSKOG TURIZMA – POLAZNE OSNOVE</naslov>
+        </rad>
+        <rad>
+            <rb>3</rb>
+            <autor>Mr. sc. Davor Perkov</autor>
+            <fakultetPoduzece>"Podravka", Koprivnica</fakultetPoduzece>
+            <naslov>UTJECAJ GLOBALNIH TRENDOVA NA SINERGIJU HRVATSKE PREHRAMBENE INDUSTRIJE I TURIZMA</naslov>
+        </rad>
+        <rad>
+            <rb>4</rb>
+            <autor>Mr. sc. Nikola Karamarko</autor>
+            <fakultetPoduzece>samostalni konzultant za hotelijerstvo i turizam</fakultetPoduzece>
+            <naslov>IZGRADNJA HRVATSKIH TURISTIČKIH BRANDOVA U FUNKCIJI RAZVOJA OPSKRBE I IZVOZA</naslov>
+        </rad>
+        <rad>
+            <rb>5</rb>
+            <autor>Doc. dr. sc. Vlado Galičić</autor>
+            <drugiAutor>Prof. dr. sc. Zdenko Cerović</drugiAutor>
+            <fakultetPoduzece>Sveučilište u Rijeci, Fakultet za turistički i hotelski menadžment Opatija</fakultetPoduzece>
+            <naslov>INFORMATIZACIJA NABAVE U HOTELSKIM PODUZEĆIMA</naslov>
+        </rad>
+        <rad>
+            <rb>6</rb>
+            <autor>Mr. sc. Kristina Brščić</autor>
+            <drugiAutor>Prof. dr. sc. Zdenko Tomčić</drugiAutor>
+            <fakultetPoduzece>Institut za poljoprivredu i turizam, Poreč</fakultetPoduzece>
+            <naslov>INFORMATIČKE TEHNOLOGIJE U FUNKCIJI RAZVOJA AGROTURISTIČKIH GOSPODARSTAVA – PRIMJER ISTRE</naslov>
+        </rad>
+        <rad>
+            <rb>7</rb>
+            <autor>Zvonimir Karalić, dipl. oec.</autor>
+            <fakultetPoduzece>webIT d.o.o., Osijek</fakultetPoduzece>
+            <naslov>E-MARKETPLACES</naslov>
+        </rad>
+        <rad>
+            <rb>8</rb>
+            <autor>Doc. dr. sc. Ninoslav Novak</autor>
+            <fakultetPoduzece>Ekonomski fakultet u Osijeku</fakultetPoduzece>
+            <naslov>ELEKTRONIČKO POSLOVANJE I MREŽNO GOSPODARSTVO U FUNKCIJI RAZVITKA HRVATSKE</naslov>
+        </rad>
+        <rad>
+            <rb>9</rb>
+            <autor>Dr. sc. Branimir Dukić</autor>
+            <fakultetPoduzece>Ekonomski fakultet u Osijeku</fakultetPoduzece>
+            <naslov>MODEL DIGITALNE RAZMJENE PODATAKA U SUSTAVU B2B TRGOVANJA POLJOPRIVREDNO-PREHRAMBENIM PROIZVODIMA</naslov>
+        </rad>
+    </sadrzaj>    
+    <prilozi>
+        <prilog>
+            <rb>1</rb>
+            <autor>Ranko Vlahek, dipl. oec.</autor>
+            <fakultetPoduzece>Prehrambena industrija Vindija d.d. Varaždin</fakultetPoduzece>
+            <naslov>KANALI DISTRIBUCIJE KAO KOMPARATIVNA PREDNOST U OPSKRBI TURISTIČKIH OBJEKATA PREHRAMBENIM PROIZVODIMA</naslov>
+        </prilog>
+        <prilog>
+            <rb>2</rb>
+            <autor>Milovan Šepić, dipl. oec.</autor>
+            <fakultetPoduzece>LIBURNIA RIVIERA HOTELI d.d., Opatija</fakultetPoduzece>
+            <naslov>VIĐENJE STANJA I RAZVOJNIH MOGUĆNOSTI OPSKRBE HRVATSKOG TURIZMA U AKTUALNOM INFORMATIČKOM OKRUŽENJU SA STAJALIŠTA HOTELIJERA KAO SUBJEKATA POTRAŽNJE</naslov>
+        </prilog>
+        <prilog>
+            <rb>3</rb>
+            <autor>Damir Međurečan</autor>
+            <fakultetPoduzece>Poslovni forum d.o.o., Rijeka</fakultetPoduzece>
+            <naslov>POVEZIVANJE PONUDE I POTRAŽNJE POSLOVNIH SUBJEKATA PUTEM INTERNETA I BAZE PODATAKA</naslov>
+        </prilog>
+        <prilog>
+            <rb>4</rb>
+            <autor>Damir Balentić, dipl. oec.</autor>
+            <fakultetPoduzece>Mesna industrija "Valvita", "Valpovo" d.d., Valpovo</fakultetPoduzece>
+            <naslov>MOGUĆE POVEZIVANJE 'VALPOVA' d.d. S TURISTIČKIM SUBJEKTIMA</naslov>
+        </prilog>
+    </prilozi>    
+</zbornik>
