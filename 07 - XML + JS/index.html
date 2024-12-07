@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Svi zadaci</title>
+    <script>
+        var namirnice, trenutniIndex = 0;
+
+        // Funkcija za učitavanje XML-a za sve zadatke
+        function ucitajXML() {
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.open("GET", "tablica_kalorija.xml", false);
+            xmlhttp.send();
+            var xmlDoc = xmlhttp.responseXML;
+            namirnice = xmlDoc.getElementsByTagName("namirnica");
+
+            // Poziv funkcija za svaki zadatak
+            zadatak1(xmlDoc);
+            zadatak2(xmlDoc);
+            zadatak3();
+            zadatak4(xmlDoc);
+        }
+
+        // Zadatak 1: Ispis svih namirnica u tablici
+        function zadatak1(xmlDoc) {
+            var ispis = "<table border='1'><tr><th>Naziv</th><th>kcal</th></tr>";
+            for (var i = 0; i < namirnice.length; i++) {
+                var naziv = namirnice[i].getElementsByTagName("naziv")[0].childNodes[0].nodeValue;
+                var kcal = namirnice[i].getElementsByTagName("energija")[1].childNodes[0].nodeValue;
+                ispis += "<tr><td>" + naziv + "</td><td>" + kcal + "</td></tr>";
+            }
+            ispis += "</table>";
+            document.getElementById("zadatak1").innerHTML = ispis;
+        }
+
+        // Zadatak 2: Ispis namirnica s manje od 100 kcal
+        function zadatak2(xmlDoc) {
+            var ispis = "<table border='1'><tr><th>Naziv</th><th>kcal</th></tr>";
+            for (var i = 0; i < namirnice.length; i++) {
+                var kcal = namirnice[i].getElementsByTagName("energija")[1].childNodes[0].nodeValue;
+                if (kcal < 100) {
+                    var naziv = namirnice[i].getElementsByTagName("naziv")[0].childNodes[0].nodeValue;
+                    ispis += "<tr><td>" + naziv + "</td><td>" + kcal + "</td></tr>";
+                }
+            }
+            ispis += "</table>";
+            document.getElementById("zadatak2").innerHTML = ispis;
+        }
+
+        // Zadatak 3: Ispis jedne po jedne namirnice s navigacijom
+        function zadatak3() {
+            prikaziNamirnicu();
+        }
+
+        function prikaziNamirnicu() {
+            var naziv = namirnice[trenutniIndex].getElementsByTagName("naziv")[0].childNodes[0].nodeValue;
+            var kcal = namirnice[trenutniIndex].getElementsByTagName("energija")[1].childNodes[0].nodeValue;
+            document.getElementById("zadatak3").innerHTML = naziv + " - " + kcal + " kcal";
+        }
+
+        function naprijed() {
+            if (trenutniIndex < namirnice.length - 1) trenutniIndex++;
+            prikaziNamirnicu();
+        }
+
+        function nazad() {
+            if (trenutniIndex > 0) trenutniIndex--;
+            prikaziNamirnicu();
+        }
+
+        // Zadatak 4: Ispis kategorija i prikaz po kategoriji
+        function zadatak4(xmlDoc) {
+            var kategorije = xmlDoc.getElementsByTagName("kategorija_namirnice");
+            var vrsteHrane = xmlDoc.getElementsByTagName("vrsta_hrane");
+            var ispis = "";
+
+            for (var i = 0; i < kategorije.length; i++) {
+                var kategorija = kategorije[i].childNodes[0].nodeValue;
+                ispis += "<h3 onclick='toggleTablica(" + i + ")'>" + kategorija + "</h3>";
+                ispis += "<div id='tablica-" + i + "' style='display:none;'><table border='1'><tr><th>Naziv</th><th>kcal</th></tr>";
+
+                var namirniceKategorije = vrsteHrane[i].getElementsByTagName("namirnica");
+                for (var j = 0; j < namirniceKategorije.length; j++) {
+                    var naziv = namirniceKategorije[j].getElementsByTagName("naziv")[0].childNodes[0].nodeValue;
+                    var kcal = namirniceKategorije[j].getElementsByTagName("energija")[1].childNodes[0].nodeValue;
+                    ispis += "<tr><td>" + naziv + "</td><td>" + kcal + "</td></tr>";
+                }
+
+                ispis += "</table></div>";
+            }
+
+            document.getElementById("zadatak4").innerHTML = ispis;
+        }
+
+        function toggleTablica(index) {
+            var tablica = document.getElementById("tablica-" + index);
+            tablica.style.display = (tablica.style.display === "none") ? "block" : "none";
+        }
+    </script>
+</head>
+<body onload="ucitajXML()">
+    <h1>Zadatak 1: Tablica kalorija</h1>
+    <div id="zadatak1"></div>
+
+    <h1>Zadatak 2: Namirnice s manje od 100 kcal</h1>
+    <div id="zadatak2"></div>
+
+    <h1>Zadatak 3: Navigacija kroz namirnice</h1>
+    <div id="zadatak3"></div>
+    <button onclick="nazad()">Nazad</button>
+    <button onclick="naprijed()">Dalje</button>
+
+    <h1>Zadatak 4: Kategorije namirnica</h1>
+    <div id="zadatak4"></div>
+</body>
+</html>
