@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Risek Maja - XML + JS</title>
+	<style>
+		table {
+			border-collapse: collapse;
+		}
+
+		table td, table th {
+			border: none;
+		}
+	</style>
+</head>
+<body>
+    <h1>Zadatak 1: Tablica kalorija</h1>
+    <div id="kalorije1"></div>
+
+    <h1>Zadatak 2: Namirnice s manje od 100 kcal</h1>
+    <div id="kalorije2"></div>
+
+    <h1>Zadatak 3: Navigacija kroz namirnice</h1>
+    <div id="prikaz"></div>
+    <button id="nazad">Nazad</button>
+    <button id="dalje">Dalje</button>
+
+    <h1>Zadatak 4: Kategorije namirnica</h1>
+    <div id="kategorije"></div>
+
+    <script>
+        async function fetchXML(url) {
+            const response = await fetch(url);
+            const data = await response.text();
+            const parser = new DOMParser();
+            return parser.parseFromString(data, "text/xml");
+        }
+
+        function generateTable(namirnice, filterFn = null) {
+            let ispis = "<table><tr><th>Naziv</th><th>kcal</th></tr>";
+            for (let namirnica of namirnice) {
+                const naziv = namirnica.getElementsByTagName("naziv")[0].textContent;
+                const kcal = parseInt(namirnica.getElementsByTagName("energija")[1].textContent, 10);
+                if (!filterFn || filterFn(kcal)) {
+                    ispis += `<tr><td>${naziv}</td><td>${kcal}</td></tr>`;
+                }
+            }
+            ispis += "</table>";
+            return ispis;
+        }
+
+        // Zadatak 1: Prikaz svih namirnica
+        fetchXML('tablica_kalorija.xml').then(xmlDoc => {
+            const namirnice = xmlDoc.getElementsByTagName("namirnica");
+            document.getElementById("kalorije1").innerHTML = generateTable(namirnice);
+        });
+
+        // Zadatak 2: Prikaz namirnica s manje od 100 kcal
+        fetchXML('tablica_kalorija.xml').then(xmlDoc => {
+            const namirnice = xmlDoc.getElementsByTagName("namirnica");
+            document.getElementById("kalorije2").innerHTML = generateTable(namirnice, kcal => kcal < 100);
+        });
+
+        // Zadatak 3: Navigacija kroz namirnice
+        fetchXML('tablica_kalorija.xml').then(xmlDoc => {
+            const namirnice = xmlDoc.getElementsByTagName("namirnica");
+            let index = 0;
+
+            function prikaziNamirnicu() {
+                const naziv = namirnice[index].getElementsByTagName("naziv")[0].textContent;
+                const kcal = namirnice[index].getElementsByTagName("energija")[1].textContent;
+                document.getElementById("prikaz").innerHTML = `<p>${naziv} - ${kcal} kcal</p>`;
+            }
+
+            document.getElementById("dalje").addEventListener("click", () => {
+                if (index < namirnice.length - 1) index++;
+                prikaziNamirnicu();
+            });
+
+            document.getElementById("nazad").addEventListener("click", () => {
+                if (index > 0) index--;
+                prikaziNamirnicu();
+            });
+
+            prikaziNamirnicu();
+        });
+
+        // Zadatak 4: Kategorije i tablice
+        fetchXML('tablica_kalorija.xml').then(xmlDoc => {
+            const kategorije = xmlDoc.getElementsByTagName("kategorija_namirnice");
+            const vrste = xmlDoc.getElementsByTagName("vrsta_hrane");
+            let ispis = "";
+
+            for (let i = 0; i < kategorije.length; i++) {
+                const kategorija = kategorije[i].textContent;
+                ispis += `<h3 onclick="toggleTablica(${i})">${kategorija}</h3>`;
+                let tablica = `<table style="display:none;" id="tablica-${i}"><tr><th>Naziv</th><th>kcal</th></tr>`;
+
+                const namirnice = vrste[i].getElementsByTagName("namirnica");
+                for (let j = 0; j < namirnice.length; j++) {
+                    const naziv = namirnice[j].getElementsByTagName("naziv")[0].textContent;
+                    const kcal = namirnice[j].getElementsByTagName("energija")[1].textContent;
+                    tablica += `<tr><td>${naziv}</td><td>${kcal}</td></tr>`;
+                }
+
+                tablica += "</table>";
+                ispis += tablica;
+            }
+
+            document.getElementById("kategorije").innerHTML = ispis;
+        });
+
+        // Funkcija za prikaz/skrivanje tablice
+        function toggleTablica(index) {
+            const tablica = document.getElementById('tablica-' + index);
+            tablica.style.display = tablica.style.display === "none" ? "block" : "none";
+        }
+    </script>
+</body>
+</html>
