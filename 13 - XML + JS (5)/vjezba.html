@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Namirnice</title>
+    <script>
+        let xml;
+
+        function loading() {
+            const xmlhttp = new XMLHttpRequest();
+            xmlhttp.open("GET", "tablica_kalorija.xml", true);
+            xmlhttp.send();
+            xmlhttp.onreadystatechange = function () {
+                if (xmlhttp.readyState === 4 && xmlhttp.status === 200) {
+                    xml = xmlhttp.responseXML;
+                    generateCategoryLinks();
+                }
+            };
+        }
+
+        function generateCategoryLinks() {
+            const categories = xml.getElementsByTagName("vrsta_hrane");
+            let categoryList = "";
+
+            for (let i = 0; i < categories.length; i++) {
+                const categoryName = xml.getElementsByTagName("kategorija_namirnice")[i].textContent;
+                categoryList += `<li><a href="#category${i}" onclick="displayCategory(${i})">${categoryName}</a></li>`;
+            }
+
+            document.getElementById("categories").innerHTML = categoryList;
+        }
+
+        function displayCategory(categoryIndex) {
+            const category = xml.getElementsByTagName("vrsta_hrane")[categoryIndex];
+            const categoryName = xml.getElementsByTagName("kategorija_namirnice")[categoryIndex].textContent;
+            const items = category.getElementsByTagName("namirnica");
+
+            let table = `<h2 id="category${categoryIndex}">${categoryName}</h2><table border="1">
+                            <tr><th>Namirnica</th><th>kcal</th><th>kJ</th><th>Ugljikohidrati</th><th>Bjelančevine</th><th>Masti</th></tr>`;
+
+            for (let i = 0; i < items.length; i++) {
+                const name = items[i].getElementsByTagName("naziv")[0].textContent;
+                const kcal = items[i].getElementsByTagName("energija")[1].textContent;
+                const kJ = items[i].getElementsByTagName("energija")[0].textContent;
+                const carbs = items[i].getElementsByTagName("uh")[0].textContent;
+                const proteins = items[i].getElementsByTagName("bjelancevine")[0].textContent;
+                const fats = items[i].getElementsByTagName("masti")[0].textContent;
+
+                table += `<tr><td>${name}</td><td>${kcal}</td><td>${kJ}</td><td>${carbs}</td><td>${proteins}</td><td>${fats}</td></tr>`;
+            }
+
+            table += "</table>";
+            document.getElementById("categoryDisplay").innerHTML = table;
+        }
+
+        // 2. Ispis namirnica bez ugljikohidrata
+        function displayNoCarbItems() {
+            const items = xml.getElementsByTagName("namirnica");
+            let table = `<h2>Namirnice bez ugljikohidrata</h2><table border="1">
+                            <tr><th>Namirnica</th><th>kcal</th><th>kJ</th><th>Ugljikohidrati</th><th>Bjelančevine</th><th>Masti</th></tr>`;
+
+            for (let i = 0; i < items.length; i++) {
+                const name = items[i].getElementsByTagName("naziv")[0].textContent;
+                const kcal = items[i].getElementsByTagName("energija")[1].textContent;
+                const kJ = items[i].getElementsByTagName("energija")[0].textContent;
+                const carbs = items[i].getElementsByTagName("uh")[0].textContent;
+                const proteins = items[i].getElementsByTagName("bjelancevine")[0].textContent;
+                const fats = items[i].getElementsByTagName("masti")[0].textContent;
+
+                if (parseFloat(carbs) === 0) {
+                    table += `<tr><td>${name}</td><td>${kcal}</td><td>${kJ}</td><td>${carbs}</td><td>${proteins}</td><td>${fats}</td></tr>`;
+                }
+            }
+
+            table += "</table>";
+            document.getElementById("noCarbDisplay").innerHTML = table;
+        }
+
+        // 3. Filtriranje po početnom slovu
+        function filterByFirstLetter() {
+            const letter = document.getElementById("letter").value.toLowerCase();
+            const items = xml.getElementsByTagName("namirnica");
+            let table = `<h2>Namirnice koje počinju s "${letter.toUpperCase()}"</h2><table border="1">
+                            <tr><th>Namirnica</th><th>kcal</th><th>kJ</th><th>Ugljikohidrati</th><th>Bjelančevine</th><th>Masti</th></tr>`;
+
+            for (let i = 0; i < items.length; i++) {
+                const name = items[i].getElementsByTagName("naziv")[0].textContent;
+
+                if (name.toLowerCase().startsWith(letter)) {
+                    const kcal = items[i].getElementsByTagName("energija")[1].textContent;
+                    const kJ = items[i].getElementsByTagName("energija")[0].textContent;
+                    const carbs = items[i].getElementsByTagName("uh")[0].textContent;
+                    const proteins = items[i].getElementsByTagName("bjelancevine")[0].textContent;
+                    const fats = items[i].getElementsByTagName("masti")[0].textContent;
+
+                    table += `<tr><td>${name}</td><td>${kcal}</td><td>${kJ}</td><td>${carbs}</td><td>${proteins}</td><td>${fats}</td></tr>`;
+                }
+            }
+
+            table += "</table>";
+            document.getElementById("letterFilterDisplay").innerHTML = table;
+        }
+
+        // 4. Pronađi namirnice ispod zadanog broja kalorija
+        function filterByCalories() {
+            const maxCalories = parseFloat(document.getElementById("maxCalories").value);
+            const categories = xml.getElementsByTagName("vrsta_hrane");
+            let result = "";
+
+            for (let i = 0; i < categories.length; i++) {
+                const categoryName = xml.getElementsByTagName("kategorija_namirnice")[i].textContent;
+                const items = categories[i].getElementsByTagName("namirnica");
+
+                let categoryTable = `<h3>Kategorija: ${categoryName}</h3><table border="1">
+                                        <tr><th>Namirnica</th><th>kcal</th></tr>`;
+                let hasItems = false;
+
+                for (let j = 0; j < items.length; j++) {
+                    const name = items[j].getElementsByTagName("naziv")[0].textContent;
+                    const kcal = parseFloat(items[j].getElementsByTagName("energija")[1].textContent);
+
+                    if (kcal < maxCalories) {
+                        categoryTable += `<tr><td>${name}</td><td>${kcal}</td></tr>`;
+                        hasItems = true;
+                    }
+                }
+
+                categoryTable += "</table>";
+                if (hasItems) result += categoryTable;
+            }
+
+            document.getElementById("calorieFilterDisplay").innerHTML = result;
+        }
+    </script>
+</head>
+<body onload="loading()">
+    <h1>Kategorije namirnica</h1>
+    <ul id="categories"></ul>
+
+    <h1>Namirnice bez ugljikohidrata</h1>
+    <button onclick="displayNoCarbItems()">Prikaži</button>
+    <div id="noCarbDisplay"></div>
+
+    <h1>Filtriranje po početnom slovu</h1>
+    <input type="text" id="letter" maxlength="1" oninput="filterByFirstLetter()">
+    <div id="letterFilterDisplay"></div>
+
+    <h1>Filtriranje po kalorijama</h1>
+    <input type="number" id="maxCalories" placeholder="Unesite maksimalne kalorije">
+    <button onclick="filterByCalories()">Prikaži</button>
+    <div id="calorieFilterDisplay"></div>
+
+    <div id="categoryDisplay"></div>
+</body>
+</html>
