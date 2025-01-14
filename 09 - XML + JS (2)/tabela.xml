@@ -1,0 +1,3485 @@
+<?xml version="1.0"?>
+<periodicna_tabela>
+
+  <atom>
+    <ime>Actinium</ime>
+    <atomska_masa>227</atomska_masa>
+    <atomski_broj>89</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">
+      3470
+    </tocka_vrenja>
+    <simbol>Ac</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      10.07
+    </gustoca>
+    <konfiguracija_elektrona>[Rn] 6d1 7s2 </konfiguracija_elektrona>
+    <elektronegativnost>1.1</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.88</atomski_radius>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      22.5
+    </atomski_volumen>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.12
+    </specificni_kapacitet_topline>
+    <potencijal_ionizacije>5.17</potencijal_ionizacije>
+
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      12
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Aluminum</ime>
+    <atomska_masa>26.98154</atomska_masa>
+    <atomski_broj>13</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2740</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">933.5</tocka_taljenja>
+    <simbol>Al</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      2.7
+    </gustoca>
+    <konfiguracija_elektrona>[Ne] 3s2 p1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.18</kovalentni_radius>
+    <elektronegativnost>1.61</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.43</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      290.8
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      10
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      10.7
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.986</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.9
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      237
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Americium</ime>
+    <atomska_masa>243</atomska_masa>
+    <atomski_broj>95</atomski_broj>
+    <oksidacijski_broj>6, 5, 4, 3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2880</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1449</tocka_taljenja>
+    <simbol>Am</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      13.7
+    </gustoca>
+    <konfiguracija_elektrona>[Rn] 5f7 7s2 </konfiguracija_elektrona>
+    <elektronegativnost>1.3</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.84</atomski_radius>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      20.8
+    </atomski_volumen>
+    <potencijal_ionizacije>6</potencijal_ionizacije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      10
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Antimony</ime>
+    <atomska_masa>121.757</atomska_masa>
+    <atomski_broj>51</atomski_broj>
+    <oksidacijski_broj>+/-3, 5</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1860</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">903.91</tocka_taljenja>
+    <simbol>Sb</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      6.69
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d10 5s2 p3 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.4</kovalentni_radius>
+    <elektronegativnost>2.05</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.59</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      67.97
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      18.4
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      19.83
+    </toplina_fuzije>
+    <potencijal_ionizacije>8.641</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.207
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      24.3
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom stanje="plin">
+    <ime>Argon</ime>
+    <atomska_masa>39.948</atomska_masa>
+    <atomski_broj>18</atomski_broj>
+    <tocka_vrenja jedinice="Kelvin">87.45</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">83.95</tocka_taljenja>
+    <simbol>Ar</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      1.784
+    </gustoca>
+    <konfiguracija_elektrona>[Ne] 3s2 p6 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">0.98</kovalentni_radius>
+    <elektronegativnost>0</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">0.88</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      6.506
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      24.2
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      1.188
+    </toplina_fuzije>
+    <potencijal_ionizacije>15.759</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.52
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.0177
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Arsenic</ime>
+    <atomska_masa>74.9216</atomska_masa>
+    <atomski_broj>33</atomski_broj>
+    <oksidacijski_broj>+/-3, 5</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">876</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1090</tocka_taljenja>
+    <simbol>As</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      5.78
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d10 4s2 p3 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.2</kovalentni_radius>
+    <elektronegativnost>2.18</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.39</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      32.4
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      13.1
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      27.7
+    </toplina_fuzije>
+    <potencijal_ionizacije>9.81</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.33
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      50
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Astatine</ime>
+    <atomska_masa>210</atomska_masa>
+    <atomski_broj>85</atomski_broj>
+    <oksidacijski_broj>+/-1, 3, 5, 7</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">610</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">575</tocka_taljenja>
+    <simbol>At</simbol>
+    <konfiguracija_elektrona>[Xe] 4f14 5d10 6s2 p5 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.47</kovalentni_radius>
+    <elektronegativnost>2.2</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.45</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      30
+    </toplina_vaporizacije>
+    <toplina_fuzije jedinice="kJ/mola">
+      12
+    </toplina_fuzije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      1.7
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom stanje="kruto">
+    <ime>Gold</ime>
+    <atomska_masa>196.9665</atomska_masa>
+    <atomski_broj>79</atomski_broj>
+    <oksidacijski_broj>3, 1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3130</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1337.58</tocka_taljenja>
+    <simbol>Au</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      19.3
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d10 6s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.34</kovalentni_radius>
+    <elektronegativnost>2.54</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.46</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      324.43
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      10.2
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      12.36
+    </toplina_fuzije>
+    <potencijal_ionizacije>9.225</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.128
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      317
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Boron</ime>
+    <atomska_masa>10.811</atomska_masa>
+    <atomski_broj>5</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">4275</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">2365</tocka_taljenja>
+    <simbol>B</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      2.34
+    </gustoca>
+    <konfiguracija_elektrona>1s2 2s2 p1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">0.82</kovalentni_radius>
+    <elektronegativnost>2.04</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">0.98</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      507.8
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      4.6
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      22.6
+    </toplina_fuzije>
+    <potencijal_ionizacije>8.298</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      1.026
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      27
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Barium</ime>
+    <atomska_masa>137.33</atomska_masa>
+    <atomski_broj>56</atomski_broj>
+    <oksidacijski_broj>2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2078</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1002</tocka_taljenja>
+    <simbol>Ba</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      3.59
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.98</kovalentni_radius>
+    <elektronegativnost>0.89</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">2.22</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      140.2
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      39
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      8.01
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.212</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.204
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      18.4
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Beryllium</ime>
+    <atomska_masa>9.01218</atomska_masa>
+    <atomski_broj>4</atomski_broj>
+    <oksidacijski_broj>2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3243</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1560</tocka_taljenja>
+    <simbol>Be</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      1.85
+    </gustoca>
+    <konfiguracija_elektrona>1s2 2s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">0.9</kovalentni_radius>
+    <elektronegativnost>1.57</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.12</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      297
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      5
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      11.71
+    </toplina_fuzije>
+    <potencijal_ionizacije>9.322</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      1.825
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      200
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Bohrium</ime>
+    <atomska_masa>262</atomska_masa>
+    <atomski_broj>107</atomski_broj>
+    <simbol>Bh</simbol>
+    <konfiguracija_elektrona>[Rn] 5f14 6d5 7s2 </konfiguracija_elektrona>
+
+
+
+  </atom>
+
+  <atom stanje="kruto">
+    <ime>Bismuth</ime>
+    <atomska_masa>208.9804</atomska_masa>
+    <atomski_broj>83</atomski_broj>
+    <oksidacijski_broj>3, 5</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1837</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">544.59</tocka_taljenja>
+    <simbol>Bi</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      9.75
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d10 6s2 p3 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.46</kovalentni_radius>
+    <elektronegativnost>2.02</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.7</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      179
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      21.3
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      11
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.289</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.122
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      7.87
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Berkelium</ime>
+    <atomska_masa>247</atomska_masa>
+    <atomski_broj>97</atomski_broj>
+    <oksidacijski_broj>4, 3</oksidacijski_broj>
+    <simbol>Bk</simbol>
+    <konfiguracija_elektrona>[Rn] 5f9 7s2 </konfiguracija_elektrona>
+    <elektronegativnost>1.3</elektronegativnost>
+
+    <potencijal_ionizacije>6.23</potencijal_ionizacije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      10
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Bromine</ime>
+    <atomska_masa>79.904</atomska_masa>
+    <atomski_broj>35</atomski_broj>
+    <oksidacijski_broj>+/-1, 5</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">331.85</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">265.95</tocka_taljenja>
+    <simbol>Br</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      3.12
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d10 4s2 p5 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.14</kovalentni_radius>
+    <elektronegativnost>2.96</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.12</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      14.725
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      23.5
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      5.286
+    </toplina_fuzije>
+    <potencijal_ionizacije>11.814</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.226
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.122
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom  stanje="kruto">
+    <ime>Carbon</ime>
+    <atomska_masa>12.011</atomska_masa>
+    <atomski_broj>6</atomski_broj>
+    <oksidacijski_broj>+/-4, 2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">5100</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">3825</tocka_taljenja>
+    <simbol>C</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      2.26
+    </gustoca>
+    <konfiguracija_elektrona>1s2 2s2 p2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">0.77</kovalentni_radius>
+    <elektronegativnost>2.55</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">0.91</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      715
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      5.3
+    </atomski_volumen>
+    <potencijal_ionizacije>11.26</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.709
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      155
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Calcium</ime>
+    <atomska_masa>40.078</atomska_masa>
+    <atomski_broj>20</atomski_broj>
+    <oksidacijski_broj>2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1757</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1112</tocka_taljenja>
+    <simbol>Ca</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      1.55
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 4s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.74</kovalentni_radius>
+    <elektronegativnost>1</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.97</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      154.67
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      29.9
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      8.53
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.113</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.647
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      200
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Cadmium</ime>
+    <atomska_masa>112.41</atomska_masa>
+    <atomski_broj>48</atomski_broj>
+    <oksidacijski_broj>2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1040</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">594.26</tocka_taljenja>
+    <simbol>Cd</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      8.65
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d10 5s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.41</kovalentni_radius>
+    <elektronegativnost>1.69</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.71</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      99.87
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      13.1
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      6.07
+    </toplina_fuzije>
+    <potencijal_ionizacije>8.993</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.233
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      96.8
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Cerium</ime>
+    <atomska_masa>140.12</atomska_masa>
+    <atomski_broj>58</atomski_broj>
+    <oksidacijski_broj>3, 4</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3715</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1071</tocka_taljenja>
+    <simbol>Ce</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      6.77
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f1 5d1 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.65</kovalentni_radius>
+    <elektronegativnost>1.12</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.81</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      313.8
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      21
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      9.2
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.47</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.19
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      11.4
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Californium</ime>
+    <atomska_masa>251</atomska_masa>
+    <atomski_broj>98</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">
+      1170
+    </tocka_vrenja>
+    <simbol>Cf</simbol>
+    <konfiguracija_elektrona>[Rn] 5f10 7s2 </konfiguracija_elektrona>
+    <elektronegativnost>1.3</elektronegativnost>
+
+    <potencijal_ionizacije>6.3</potencijal_ionizacije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      10
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Chlorine</ime>
+    <atomska_masa>35.4527</atomska_masa>
+    <atomski_broj>17</atomski_broj>
+    <oksidacijski_broj>+/-1, 3, 5, 7</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">239.18</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">172.17</tocka_taljenja>
+    <simbol>Cl</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      3.214
+    </gustoca>
+    <konfiguracija_elektrona>[Ne] 3s2 p5 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">0.99</kovalentni_radius>
+    <elektronegativnost>3.16</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">0.97</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      10.2
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      18.7
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      3.21
+    </toplina_fuzije>
+    <potencijal_ionizacije>12.967</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.48
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.0089
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Curium</ime>
+    <atomska_masa>247</atomska_masa>
+    <atomski_broj>96</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">
+      1620
+    </tocka_vrenja>
+    <simbol>Cm</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      13.5
+    </gustoca>
+    <konfiguracija_elektrona>[Rn] 5f7 6d1 7s2 </konfiguracija_elektrona>
+    <elektronegativnost>1.3</elektronegativnost>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      18.3
+    </atomski_volumen>
+    <potencijal_ionizacije>6.02</potencijal_ionizacije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      10
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Cobalt</ime>
+    <atomska_masa>58.9332</atomska_masa>
+    <atomski_broj>27</atomski_broj>
+    <oksidacijski_broj>2, 3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3143</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1768</tocka_taljenja>
+    <simbol>Co</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      8.9
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d7 4s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.16</kovalentni_radius>
+    <elektronegativnost>1.88</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.25</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      373.3
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      6.7
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      16.19
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.86</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.421
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      100
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Chromium</ime>
+    <atomska_masa>51.996</atomska_masa>
+    <atomski_broj>24</atomski_broj>
+    <oksidacijski_broj>6, 3, 2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2945</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">2130</tocka_taljenja>
+    <simbol>Cr</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      7.19
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d5 4s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.18</kovalentni_radius>
+    <elektronegativnost>1.66</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.3</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      339.5
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      7.23
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      20
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.766</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.449
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      93.7
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Cesium</ime>
+    <atomska_masa>132.9054</atomska_masa>
+    <atomski_broj>55</atomski_broj>
+    <oksidacijski_broj>1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">944</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">301.54</tocka_taljenja>
+    <simbol>Cs</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      1.87
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 6s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">2.35</kovalentni_radius>
+    <elektronegativnost>0.79</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">2.67</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      67.74
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      70
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      2.092
+    </toplina_fuzije>
+    <potencijal_ionizacije>3.894</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.24
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      35.9
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Copper</ime>
+    <atomska_masa>63.546</atomska_masa>
+    <atomski_broj>29</atomski_broj>
+    <oksidacijski_broj>2, 1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2840</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1356.6</tocka_taljenja>
+    <simbol>Cu</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      8.96
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d10 4s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.17</kovalentni_radius>
+    <elektronegativnost>1.9</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.28</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      300.5
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      7.1
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      13.14
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.726</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.385
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      401
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Dubnium</ime>
+    <atomska_masa>262</atomska_masa>
+    <atomski_broj>105</atomski_broj>
+    <simbol>Db</simbol>
+    <konfiguracija_elektrona>[Rn] 5f14 6d3 7s2 </konfiguracija_elektrona>
+
+
+
+  </atom>
+
+  <atom>
+    <ime>Dysprosium</ime>
+    <atomska_masa>162.5</atomska_masa>
+    <atomski_broj>66</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2840</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1685</tocka_taljenja>
+    <simbol>Dy</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      8.55
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f10 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.59</kovalentni_radius>
+    <elektronegativnost>1.22</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.8</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      230
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      19
+    </atomski_volumen>
+    <potencijal_ionizacije>5.93</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.173
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      10.7
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Erbium</ime>
+    <atomska_masa>167.26</atomska_masa>
+    <atomski_broj>68</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3140</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1802</tocka_taljenja>
+    <simbol>Er</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      9.07
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f12 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.57</kovalentni_radius>
+    <elektronegativnost>1.24</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.78</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      292.88
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      18.4
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      17.15
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.101</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.168
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      14.3
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Einsteinium</ime>
+    <atomska_masa>252</atomska_masa>
+    <atomski_broj>99</atomski_broj>
+    <tocka_vrenja jedinice="Kelvin">
+      1130
+    </tocka_vrenja>
+    <simbol>Es</simbol>
+    <konfiguracija_elektrona>[Rn] 5f11 7s2 </konfiguracija_elektrona>
+    <elektronegativnost>1.3</elektronegativnost>
+
+    <potencijal_ionizacije>6.42</potencijal_ionizacije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      10
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Europium</ime>
+    <atomska_masa>151.965</atomska_masa>
+    <atomski_broj>63</atomski_broj>
+    <oksidacijski_broj>3, 2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1800</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1095</tocka_taljenja>
+    <simbol>Eu</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      5.24
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f7 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.85</kovalentni_radius>
+    <elektronegativnost>1.2</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.99</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      175.73
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      28.9
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      9.21
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.67</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.182
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      13.9
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Fluorine</ime>
+    <atomska_masa>18.9984</atomska_masa>
+    <atomski_broj>9</atomski_broj>
+    <oksidacijski_broj>-1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">85</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">53.55</tocka_taljenja>
+    <simbol>F</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      1.696
+    </gustoca>
+    <konfiguracija_elektrona>1s2 2s2 p5 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">0.72</kovalentni_radius>
+    <elektronegativnost>3.98</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">0.57</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      3.2698
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      17.1
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      0.26
+    </toplina_fuzije>
+    <potencijal_ionizacije>17.422</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.824
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.0279
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Iron</ime>
+    <atomska_masa>55.847</atomska_masa>
+    <atomski_broj>26</atomski_broj>
+    <oksidacijski_broj>2, 3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3023</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1808</tocka_taljenja>
+    <simbol>Fe</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      7.874
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d6 4s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.17</kovalentni_radius>
+    <elektronegativnost>1.83</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.26</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      349.5
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      7.1
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      13.8
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.87</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.449
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      80.2
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Fermium</ime>
+    <atomska_masa>257</atomska_masa>
+    <atomski_broj>100</atomski_broj>
+    <tocka_vrenja jedinice="Kelvin">
+      1800
+    </tocka_vrenja>
+    <simbol>Fm</simbol>
+    <konfiguracija_elektrona>[Rn] 5f12 7s2 </konfiguracija_elektrona>
+    <elektronegativnost>1.3</elektronegativnost>
+
+    <potencijal_ionizacije>6.5</potencijal_ionizacije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      10
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Francium</ime>
+    <atomska_masa>223</atomska_masa>
+    <atomski_broj>87</atomski_broj>
+    <oksidacijski_broj>1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">950</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">300</tocka_taljenja>
+    <simbol>Fr</simbol>
+    <konfiguracija_elektrona>[Rn] 7s1 </konfiguracija_elektrona>
+    <elektronegativnost>0.7</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">2.7</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      64
+    </toplina_vaporizacije>
+    <toplina_fuzije jedinice="kJ/mola">
+      2.1
+    </toplina_fuzije>
+    <potencijal_ionizacije>0</potencijal_ionizacije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      15
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Gallium</ime>
+    <atomska_masa>69.723</atomska_masa>
+    <atomski_broj>31</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2478</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">302.92</tocka_taljenja>
+    <simbol>Ga</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      5.91
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d10 4s2 p1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.26</kovalentni_radius>
+    <elektronegativnost>1.81</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.41</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      256.06
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      11.8
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      5.59
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.999</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.371
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      40.6
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Gadolinium</ime>
+    <atomska_masa>157.25</atomska_masa>
+    <atomski_broj>64</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3545</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1585</tocka_taljenja>
+    <simbol>Gd</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      7.9
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f7 5d1 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.61</kovalentni_radius>
+    <elektronegativnost>1.2</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.8</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      311.71
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      19.9
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      10.46
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.15</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.236
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      10.6
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Germanium</ime>
+    <atomska_masa>72.61</atomska_masa>
+    <atomski_broj>32</atomski_broj>
+    <oksidacijski_broj>4</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3107</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1211.5</tocka_taljenja>
+    <simbol>Ge</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      5.32
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d10 4s2 p2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.22</kovalentni_radius>
+    <elektronegativnost>2.01</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.37</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      334.3
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      13.6
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      31.8
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.899</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.32
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      59.9
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom stanje="plin">
+    <ime>Hydrogen</ime>
+    <atomska_masa>1.00794</atomska_masa>
+    <atomski_broj>1</atomski_broj>
+    <oksidacijski_broj>1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">20.28</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">13.81</tocka_taljenja>
+    <simbol>H</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      0.0899
+    </gustoca>
+    <konfiguracija_elektrona>1s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">0.32</kovalentni_radius>
+    <elektronegativnost>2.1</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">2.08</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      0.4581
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      14.1
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      0.0585
+    </toplina_fuzije>
+    <potencijal_ionizacije>13.598</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      14.304
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.1815
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom stanje="plin">
+    <ime>Helium</ime>
+    <atomska_masa>4.0026</atomska_masa>
+    <atomski_broj>2</atomski_broj>
+    <tocka_vrenja jedinice="Kelvin">4.216</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">0.95</tocka_taljenja>
+    <simbol>He</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      0.1785
+    </gustoca>
+    <konfiguracija_elektrona>1s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">0.93</kovalentni_radius>
+    <elektronegativnost>0</elektronegativnost>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      0.084
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      31.8
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      0.021
+    </toplina_fuzije>
+    <potencijal_ionizacije>24.587</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      5.193
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.152
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Hafnium</ime>
+    <atomska_masa>178.49</atomska_masa>
+    <atomski_broj>72</atomski_broj>
+    <oksidacijski_broj>4</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">4875</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">2504</tocka_taljenja>
+    <simbol>Hf</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      13.31
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d2 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.44</kovalentni_radius>
+    <elektronegativnost>1.3</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.67</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      661.07
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      13.6
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      21.76
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.65</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.14
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      23
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Mercury</ime>
+    <atomska_masa>200.59</atomska_masa>
+    <atomski_broj>80</atomski_broj>
+    <oksidacijski_broj>2, 1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">629.88</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">234.31</tocka_taljenja>
+    <simbol>Hg</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      13.55
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d10 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.49</kovalentni_radius>
+    <elektronegativnost>2</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.6</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      59.3
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      14.8
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      2.292
+    </toplina_fuzije>
+    <potencijal_ionizacije>10.437</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.140
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      8.34
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Holmium</ime>
+    <atomska_masa>164.9303</atomska_masa>
+    <atomski_broj>67</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2968</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1747</tocka_taljenja>
+    <simbol>Ho</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      8.8
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f11 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.58</kovalentni_radius>
+    <elektronegativnost>1.23</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.79</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      251.04
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      18.7
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      11.06
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.02</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.165
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      16.2
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Hassium</ime>
+    <atomska_masa>265</atomska_masa>
+    <atomski_broj>108</atomski_broj>
+    <simbol>Hs</simbol>
+    <konfiguracija_elektrona>[Rn] 5f14 6d6 7s2 </konfiguracija_elektrona>
+
+
+
+  </atom>
+
+  <atom>
+    <ime>Iodine</ime>
+    <atomska_masa>126.9045</atomska_masa>
+    <atomski_broj>53</atomski_broj>
+    <oksidacijski_broj>+/-1, 5, 7</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">457.5</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">386.7</tocka_taljenja>
+    <simbol>I</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      4.93
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d10 5s2 p5 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.33</kovalentni_radius>
+    <elektronegativnost>2.66</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.32</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      20.9
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      25.7
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      7.76
+    </toplina_fuzije>
+    <potencijal_ionizacije>10.451</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.145
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.449
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Indium</ime>
+    <atomska_masa>114.82</atomska_masa>
+    <atomski_broj>49</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2350</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">429.78</tocka_taljenja>
+    <simbol>In</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      7.31
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d10 5s2 p1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.44</kovalentni_radius>
+    <elektronegativnost>1.78</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.66</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      226.35
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      15.7
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      3.26
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.786</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.233
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      81.6
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Iridium</ime>
+    <atomska_masa>192.22</atomska_masa>
+    <atomski_broj>77</atomski_broj>
+    <oksidacijski_broj>2, 3, 4, 6</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">4700</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">2720</tocka_taljenja>
+    <simbol>Ir</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      22.6
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d7 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.27</kovalentni_radius>
+    <elektronegativnost>2.2</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.36</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      563.58
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      8.54
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      26.36
+    </toplina_fuzije>
+    <potencijal_ionizacije>9.1</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.13
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      147
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Potassium</ime>
+    <atomska_masa>39.0983</atomska_masa>
+    <atomski_broj>19</atomski_broj>
+    <oksidacijski_broj>1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1033</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">336.8</tocka_taljenja>
+    <simbol>K</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      0.86
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 4s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">2.03</kovalentni_radius>
+    <elektronegativnost>0.82</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">2.35</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      76.9
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      45.3
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      2.33
+    </toplina_fuzije>
+    <potencijal_ionizacije>4.341</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.757
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      102.5
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Krypton</ime>
+    <atomska_masa>83.8</atomska_masa>
+    <atomski_broj>36</atomski_broj>
+    <tocka_vrenja jedinice="Kelvin">120.85</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">116</tocka_taljenja>
+    <simbol>Kr</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      3.75
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d10 4s2 p6 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.89</kovalentni_radius>
+    <elektronegativnost>0</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.03</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      9.029
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      32.2
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      1.638
+    </toplina_fuzije>
+    <potencijal_ionizacije>13.999</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.248
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.00949
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Lanthanum</ime>
+    <atomska_masa>138.9055</atomska_masa>
+    <atomski_broj>57</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3737</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1191</tocka_taljenja>
+    <simbol>La</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      6.15
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 5d1 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.25</kovalentni_radius>
+    <elektronegativnost>1.1</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.38</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      399.57
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      22.5
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      11.3
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.58</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.19
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      13.5
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Lithium</ime>
+    <atomska_masa>6.941</atomska_masa>
+    <atomski_broj>3</atomski_broj>
+    <oksidacijski_broj>1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1615</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">453.7</tocka_taljenja>
+    <simbol>Li</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      0.53
+    </gustoca>
+    <konfiguracija_elektrona>1s2 2s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.23</kovalentni_radius>
+    <elektronegativnost>0.98</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.55</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      147.1
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      13.1
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      3
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.392</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      3.582
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      84.7
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Lawrencium</ime>
+    <atomska_masa>262</atomska_masa>
+    <atomski_broj>103</atomski_broj>
+    <tocka_vrenja jedinice="Kelvin">
+      1900
+    </tocka_vrenja>
+    <simbol>Lr</simbol>
+    <konfiguracija_elektrona>[Rn] 5f14 6d1 7s2 </konfiguracija_elektrona>
+
+
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      10
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Lutetium</ime>
+    <atomska_masa>174.967</atomska_masa>
+    <atomski_broj>71</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3668</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1936</tocka_taljenja>
+    <simbol>Lu</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      9.84
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d1 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.56</kovalentni_radius>
+    <elektronegativnost>1.27</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.75</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      355
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      17.8
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      18.6
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.43</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.15
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      16.4
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Mendelevium</ime>
+    <atomska_masa>258</atomska_masa>
+    <atomski_broj>101</atomski_broj>
+    <tocka_vrenja jedinice="Kelvin">
+      1100
+    </tocka_vrenja>
+    <simbol>Md</simbol>
+    <konfiguracija_elektrona>[Rn] 5f13 7s2 </konfiguracija_elektrona>
+    <elektronegativnost>1.3</elektronegativnost>
+
+    <potencijal_ionizacije>6.58</potencijal_ionizacije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      10
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Magnesium</ime>
+    <atomska_masa>24.305</atomska_masa>
+    <atomski_broj>12</atomski_broj>
+    <oksidacijski_broj>2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1380</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">922</tocka_taljenja>
+    <simbol>Mg</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      1.74
+    </gustoca>
+    <konfiguracija_elektrona>[Ne] 3s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.36</kovalentni_radius>
+    <elektronegativnost>1.31</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.6</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      127.6
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      14
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      8.95
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.646</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      1.02
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      156
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Manganese</ime>
+    <atomska_masa>54.938</atomska_masa>
+    <atomski_broj>25</atomski_broj>
+    <oksidacijski_broj>7, 6, 4, 2, 3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2335</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1518</tocka_taljenja>
+    <simbol>Mn</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      7.44
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d5 4s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.17</kovalentni_radius>
+    <elektronegativnost>1.55</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.35</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      219.74
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      7.39
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      14.64
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.435</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.48
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      7.82
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Molybdenum</ime>
+    <atomska_masa>95.94</atomska_masa>
+    <atomski_broj>42</atomski_broj>
+    <oksidacijski_broj>6, 5, 4, 3, 2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">4912</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">2896</tocka_taljenja>
+    <simbol>Mo</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      10.22
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d5 5s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.3</kovalentni_radius>
+    <elektronegativnost>2.16</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.39</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      590.4
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      9.4
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      36
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.099</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.25
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      138
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Meitnerium</ime>
+    <atomska_masa>266</atomska_masa>
+    <atomski_broj>109</atomski_broj>
+    <simbol>Mt</simbol>
+    <konfiguracija_elektrona>[Rn] 5f14 6d7 7s2 </konfiguracija_elektrona>
+
+
+
+  </atom>
+
+  <atom>
+    <ime>Nitrogen</ime>
+    <atomska_masa>14.0067</atomska_masa>
+    <atomski_broj>7</atomski_broj>
+    <oksidacijski_broj>+/-3, 5, 4, 2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">77.344</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">63.15</tocka_taljenja>
+    <simbol>N</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      1.251
+    </gustoca>
+    <konfiguracija_elektrona>1s2 2s2 p3 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">0.75</kovalentni_radius>
+    <elektronegativnost>3.04</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">0.92</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      2.7928
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      17.3
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      0.36
+    </toplina_fuzije>
+    <potencijal_ionizacije>14.534</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      1.042
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.02598
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Sodium</ime>
+    <atomska_masa>22.98977</atomska_masa>
+    <atomski_broj>11</atomski_broj>
+    <oksidacijski_broj>1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1156</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">371</tocka_taljenja>
+    <simbol>Na</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      0.97
+    </gustoca>
+    <konfiguracija_elektrona>[Ne] 3s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.54</kovalentni_radius>
+    <elektronegativnost>0.93</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.9</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      98.01
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      23.7
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      2.601
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.139</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      1.23
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      141
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Niobium</ime>
+    <atomska_masa>92.9064</atomska_masa>
+    <atomski_broj>41</atomski_broj>
+    <oksidacijski_broj>5, 3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">5015</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">2742</tocka_taljenja>
+    <simbol>Nb</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      8.57
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d4 5s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.34</kovalentni_radius>
+    <elektronegativnost>1.6</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.46</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      690.1
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      10.8
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      26.9
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.88</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.265
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      53.7
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Neodymium</ime>
+    <atomska_masa>144.24</atomska_masa>
+    <atomski_broj>60</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3347</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1294</tocka_taljenja>
+    <simbol>Nd</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      7.01
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f4 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.64</kovalentni_radius>
+    <elektronegativnost>1.14</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.82</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      283.68
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      20.6
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      10.88
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.49</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.19
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      16.5
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Neon</ime>
+    <atomska_masa>20.1797</atomska_masa>
+    <atomski_broj>10</atomski_broj>
+    <tocka_vrenja jedinice="Kelvin">27.1</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">24.55</tocka_taljenja>
+    <simbol>Ne</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      0.900
+    </gustoca>
+    <konfiguracija_elektrona>1s2 2s2 p6 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">0.71</kovalentni_radius>
+    <elektronegativnost>0</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">0.51</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      1.77
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      16.9
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      0.34
+    </toplina_fuzije>
+    <potencijal_ionizacije>21.564</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      1.03
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.0493
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Nickel</ime>
+    <atomska_masa>58.6934</atomska_masa>
+    <atomski_broj>28</atomski_broj>
+    <oksidacijski_broj>2, 3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3005</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1726</tocka_taljenja>
+    <simbol>Ni</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      8.9
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d8 4s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.15</kovalentni_radius>
+    <elektronegativnost>1.91</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.24</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      377.5
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      6.6
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      17.2
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.635</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.444
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      90.7
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Nobelium</ime>
+    <atomska_masa>259</atomska_masa>
+    <atomski_broj>102</atomski_broj>
+    <tocka_vrenja jedinice="Kelvin">
+      1100
+    </tocka_vrenja>
+    <simbol>No</simbol>
+    <konfiguracija_elektrona>[Rn] 5f14 7s2 </konfiguracija_elektrona>
+    <elektronegativnost>1.3</elektronegativnost>
+
+    <potencijal_ionizacije>6.65</potencijal_ionizacije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      10
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Neptunium</ime>
+    <atomska_masa>237.0482</atomska_masa>
+    <atomski_broj>93</atomski_broj>
+    <oksidacijski_broj>6, 5, 4, 3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">4175</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">912</tocka_taljenja>
+    <simbol>Np</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      20.2
+    </gustoca>
+    <konfiguracija_elektrona>[Rn] 5f4 6d1 7s2 </konfiguracija_elektrona>
+    <elektronegativnost>1.36</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.3</atomski_radius>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      21.1
+    </atomski_volumen>
+    <potencijal_ionizacije>6.19</potencijal_ionizacije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      6.3
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Oxygen</ime>
+    <atomska_masa>15.9994</atomska_masa>
+    <atomski_broj>8</atomski_broj>
+    <oksidacijski_broj>-2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">90.188</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">54.8</tocka_taljenja>
+    <simbol>O</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      1.429
+    </gustoca>
+    <konfiguracija_elektrona>1s2 2s2 p4 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">0.73</kovalentni_radius>
+    <elektronegativnost>3.44</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">0.65</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      3.4109
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      14
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      0.222
+    </toplina_fuzije>
+    <potencijal_ionizacije>13.618</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.92
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.2674
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Osmium</ime>
+    <atomska_masa>190.2</atomska_masa>
+    <atomski_broj>76</atomski_broj>
+    <oksidacijski_broj>2, 3, 4, 6, 8</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">5300</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">3300</tocka_taljenja>
+    <simbol>Os</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      22.6
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d6 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.26</kovalentni_radius>
+    <elektronegativnost>2.2</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.35</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      627.6
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      8.43
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      29.29
+    </toplina_fuzije>
+    <potencijal_ionizacije>8.7</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.13
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      87.6
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Phosphorus</ime>
+    <atomska_masa>30.97376</atomska_masa>
+    <atomski_broj>15</atomski_broj>
+    <oksidacijski_broj>+/-3, 5, 4</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">553</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">317.3</tocka_taljenja>
+    <simbol>P</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      1.82
+    </gustoca>
+    <konfiguracija_elektrona>[Ne] 3s2 p3 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.06</kovalentni_radius>
+    <elektronegativnost>2.19</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.28</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      12.4
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      17
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      0.63
+    </toplina_fuzije>
+    <potencijal_ionizacije>10.486</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.769
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.235
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Protactinium</ime>
+    <atomska_masa>231.0359</atomska_masa>
+    <atomski_broj>91</atomski_broj>
+    <oksidacijski_broj>5, 4</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">4300</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1845</tocka_taljenja>
+    <simbol>Pa</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      15.4
+    </gustoca>
+    <konfiguracija_elektrona>[Rn] 5f2 6d1 7s2 </konfiguracija_elektrona>
+    <elektronegativnost>1.5</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.61</atomski_radius>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      15
+    </atomski_volumen>
+    <potencijal_ionizacije>5.88</potencijal_ionizacije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      47
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Lead</ime>
+    <atomska_masa>207.2</atomska_masa>
+    <atomski_broj>82</atomski_broj>
+    <oksidacijski_broj>4, 2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2023</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">600.65</tocka_taljenja>
+    <simbol>Pb</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      11.35
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d10 6s2 p2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.47</kovalentni_radius>
+    <elektronegativnost>2.33</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.75</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      177.9
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      18.3
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      4.77
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.416</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.129
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      35.3
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Palladium</ime>
+    <atomska_masa>106.42</atomska_masa>
+    <atomski_broj>46</atomski_broj>
+    <oksidacijski_broj>2, 4</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3240</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1825</tocka_taljenja>
+    <simbol>Pd</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      12
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d10 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.28</kovalentni_radius>
+    <elektronegativnost>2.2</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.37</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      393.3
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      8.9
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      16.74
+    </toplina_fuzije>
+    <potencijal_ionizacije>8.34</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.244
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      71.8
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Promethium</ime>
+    <atomska_masa>145</atomska_masa>
+    <atomski_broj>61</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3273</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1315</tocka_taljenja>
+    <simbol>Pm</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      7.22
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f5 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.63</kovalentni_radius>
+    <elektronegativnost>1.13</elektronegativnost>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      22.4
+    </atomski_volumen>
+    <potencijal_ionizacije>5.55</potencijal_ionizacije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      17.9
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Polonium</ime>
+    <atomska_masa>209</atomska_masa>
+    <atomski_broj>84</atomski_broj>
+    <oksidacijski_broj>4, 2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">
+      527
+    </tocka_vrenja>
+    <simbol>Po</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      9.3
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d10 6s2 p4 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.53</kovalentni_radius>
+    <elektronegativnost>2</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.67</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      120
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      22.7
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      13
+    </toplina_fuzije>
+    <potencijal_ionizacije>8.42</potencijal_ionizacije>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      20
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Praseodymium</ime>
+    <atomska_masa>140.9077</atomska_masa>
+    <atomski_broj>59</atomski_broj>
+    <oksidacijski_broj>3, 4</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3785</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1204</tocka_taljenja>
+    <simbol>Pr</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      6.77
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f3 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.65</kovalentni_radius>
+    <elektronegativnost>1.13</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.82</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      332.63
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      20.8
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      10.04
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.42</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.193
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      12.5
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Platinum</ime>
+    <atomska_masa>195.08</atomska_masa>
+    <atomski_broj>78</atomski_broj>
+    <oksidacijski_broj>2, 4</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">4100</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">2042.1</tocka_taljenja>
+    <simbol>Pt</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      21.45
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d9 6s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.3</kovalentni_radius>
+    <elektronegativnost>2.28</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.39</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      510.45
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      9.1
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      19.66
+    </toplina_fuzije>
+    <potencijal_ionizacije>9</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.13
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      71.6
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Plutonium</ime>
+    <atomska_masa>244</atomska_masa>
+    <atomski_broj>94</atomski_broj>
+    <oksidacijski_broj>6, 5, 4, 3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3505</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">913</tocka_taljenja>
+    <simbol>Pu</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      19.84
+    </gustoca>
+    <konfiguracija_elektrona>[Rn] 5f6 7s2 </konfiguracija_elektrona>
+    <elektronegativnost>1.28</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.51</atomski_radius>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      12.32
+    </atomski_volumen>
+    <potencijal_ionizacije>6.06</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.13
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      6.74
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Radium</ime>
+    <atomska_masa>226.0254</atomska_masa>
+    <atomski_broj>88</atomski_broj>
+    <oksidacijski_broj>2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1413</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">973</tocka_taljenja>
+    <simbol>Ra</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      5
+    </gustoca>
+    <konfiguracija_elektrona>[Rn] 7s2 </konfiguracija_elektrona>
+    <elektronegativnost>0.89</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">2.33</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      136.82
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      45.2
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      8.37
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.279</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.094
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      18.6
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Rubidium</ime>
+    <atomska_masa>85.4678</atomska_masa>
+    <atomski_broj>37</atomski_broj>
+    <oksidacijski_broj>1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">961</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">312.63</tocka_taljenja>
+    <simbol>Rb</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      1.532
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 5s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">2.16</kovalentni_radius>
+    <elektronegativnost>0.82</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">2.48</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      69.2
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      55.9
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      2.34
+    </toplina_fuzije>
+    <potencijal_ionizacije>4.177</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.363
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      58.2
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Rhenium</ime>
+    <atomska_masa>186.207</atomska_masa>
+    <atomski_broj>75</atomski_broj>
+    <oksidacijski_broj>7, 6, 4, 2, -1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">5870</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">3455</tocka_taljenja>
+    <simbol>Re</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      21
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d5 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.28</kovalentni_radius>
+    <elektronegativnost>1.9</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.37</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      707.1
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      8.85
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      33.05
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.88</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.137
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      47.9
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Rutherfordium</ime>
+    <atomska_masa>261</atomska_masa>
+    <atomski_broj>104</atomski_broj>
+    <simbol>Rf</simbol>
+    <konfiguracija_elektrona>[Rn] 5f14 6d2 7s2 </konfiguracija_elektrona>
+
+
+
+  </atom>
+
+  <atom>
+    <ime>Rhodium</ime>
+    <atomska_masa>102.9055</atomska_masa>
+    <atomski_broj>45</atomski_broj>
+    <oksidacijski_broj>2, 3, 4</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3970</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">2236</tocka_taljenja>
+    <simbol>Rh</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      12.41
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d8 5s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.25</kovalentni_radius>
+    <elektronegativnost>2.28</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.34</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      495.39
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      8.3
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      21.76
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.46</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.242
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      150
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Radon</ime>
+    <atomska_masa>222</atomska_masa>
+    <atomski_broj>86</atomski_broj>
+    <tocka_vrenja jedinice="Kelvin">211.4</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">202</tocka_taljenja>
+    <simbol>Rn</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      9.73
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d10 6s2 p6 </konfiguracija_elektrona>
+    <elektronegativnost>0</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.34</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      16.4
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      50.5
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      2.9
+    </toplina_fuzije>
+    <potencijal_ionizacije>10.748</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.094
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.00364
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Ruthenium</ime>
+    <atomska_masa>101.07</atomska_masa>
+    <atomski_broj>44</atomski_broj>
+    <oksidacijski_broj>2, 3, 4, 6, 8</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">4425</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">2610</tocka_taljenja>
+    <simbol>Ru</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      12.37
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d7 5s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.25</kovalentni_radius>
+    <elektronegativnost>2.2</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.34</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      567.77
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      8.3
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      25.52
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.37</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.238
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      117
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Sulfur</ime>
+    <atomska_masa>32.066</atomska_masa>
+    <atomski_broj>16</atomski_broj>
+    <oksidacijski_broj>+/-2, 4, 6</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">717.82</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">392.2</tocka_taljenja>
+    <simbol>S</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      2.07
+    </gustoca>
+    <konfiguracija_elektrona>[Ne] 3s2 p4 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.02</kovalentni_radius>
+    <elektronegativnost>2.58</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.27</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      10
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      15.5
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      1.73
+    </toplina_fuzije>
+    <potencijal_ionizacije>10.36</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.71
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.269
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Silver</ime>
+    <atomska_masa>107.868</atomska_masa>
+    <atomski_broj>47</atomski_broj>
+    <oksidacijski_broj>1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2436</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1235.08</tocka_taljenja>
+    <simbol>Ag</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      10.5
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d10 5s1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.34</kovalentni_radius>
+    <elektronegativnost>1.93</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.44</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      250.63
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      10.3
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      11.3
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.576</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.232
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      429
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Scandium</ime>
+    <atomska_masa>44.9559</atomska_masa>
+    <atomski_broj>21</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3109</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1814</tocka_taljenja>
+    <simbol>Sc</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      2.99
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d1 4s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.44</kovalentni_radius>
+    <elektronegativnost>1.36</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.62</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      304.8
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      15
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      16.11
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.54</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.568
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      15.8
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Selenium</ime>
+    <atomska_masa>78.96</atomska_masa>
+    <atomski_broj>34</atomski_broj>
+    <oksidacijski_broj>-2, 4, 6</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">958</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">494</tocka_taljenja>
+    <simbol>Se</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      4.79
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d10 4s2 p4 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.16</kovalentni_radius>
+    <elektronegativnost>2.55</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.4</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      26.32
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      16.5
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      5.54
+    </toplina_fuzije>
+    <potencijal_ionizacije>9.752</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.32
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      2.04
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Seaborgium</ime>
+    <atomska_masa>263</atomska_masa>
+    <atomski_broj>106</atomski_broj>
+    <simbol>Sg</simbol>
+    <konfiguracija_elektrona>[Rn] 5f14 6d4 7s2 </konfiguracija_elektrona>
+
+
+
+  </atom>
+
+  <atom>
+    <ime>Silicon</ime>
+    <atomska_masa>28.0855</atomska_masa>
+    <atomski_broj>14</atomski_broj>
+    <oksidacijski_broj>4</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2630</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1683</tocka_taljenja>
+    <simbol>Si</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      2.33
+    </gustoca>
+    <konfiguracija_elektrona>[Ne] 3s2 p2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.11</kovalentni_radius>
+    <elektronegativnost>1.9</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.32</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      359
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      12.1
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      50.2
+    </toplina_fuzije>
+    <potencijal_ionizacije>8.151</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.70
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      148
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Samarium</ime>
+    <atomska_masa>150.36</atomska_masa>
+    <atomski_broj>62</atomski_broj>
+    <oksidacijski_broj>3, 2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2067</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1347</tocka_taljenja>
+    <simbol>Sm</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      7.52
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f6 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.62</kovalentni_radius>
+    <elektronegativnost>1.17</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.81</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      191.63
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      19.9
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      11.09
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.63</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.197
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      13.3
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Strontium</ime>
+    <atomska_masa>87.62</atomska_masa>
+    <atomski_broj>38</atomski_broj>
+    <oksidacijski_broj>2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1655</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1042</tocka_taljenja>
+    <simbol>Sr</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      2.54
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 5s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.91</kovalentni_radius>
+    <elektronegativnost>0.95</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">2.15</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      136.9
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      33.7
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      8.2
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.695</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.3
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      35.3
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Tantalum</ime>
+    <atomska_masa>180.9479</atomska_masa>
+    <atomski_broj>73</atomski_broj>
+    <oksidacijski_broj>5</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">5730</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">3293</tocka_taljenja>
+    <simbol>Ta</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      16.65
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d3 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.34</kovalentni_radius>
+    <elektronegativnost>1.5</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.49</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      737
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      10.9
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      36
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.89</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.14
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      57.5
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Terbium</ime>
+    <atomska_masa>158.9253</atomska_masa>
+    <atomski_broj>65</atomski_broj>
+    <oksidacijski_broj>3, 4</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3500</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1629</tocka_taljenja>
+    <simbol>Tb</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      8.23
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f9 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.59</kovalentni_radius>
+    <elektronegativnost>1.1</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.8</atomski_radius>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      19.2
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      15.48
+    </toplina_fuzije>
+    <potencijal_ionizacije>5.86</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.18
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      11.1
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Technetium</ime>
+    <atomska_masa>98</atomska_masa>
+    <atomski_broj>43</atomski_broj>
+    <oksidacijski_broj>7</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">4538</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">2477</tocka_taljenja>
+    <simbol>Tc</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      11.5
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d5 5s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.27</kovalentni_radius>
+    <elektronegativnost>1.9</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.36</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      502
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      8.5
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      23
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.28</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.24
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      50.6
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Tellurium</ime>
+    <atomska_masa>127.6</atomska_masa>
+    <atomski_broj>52</atomski_broj>
+    <oksidacijski_broj>-2, 4, 6</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1261</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">722.72</tocka_taljenja>
+    <simbol>Te</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      6.24
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d10 5s2 p4 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.36</kovalentni_radius>
+    <elektronegativnost>2.1</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.42</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      50.63
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      20.5
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      17.49
+    </toplina_fuzije>
+    <potencijal_ionizacije>9.009</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.202
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      2.35
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Thorium</ime>
+    <atomska_masa>232.0381</atomska_masa>
+    <atomski_broj>90</atomski_broj>
+    <oksidacijski_broj>4</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">5060</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">2028</tocka_taljenja>
+    <simbol>Th</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      11.72
+    </gustoca>
+    <konfiguracija_elektrona>[Rn] 6d2 7s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.65</kovalentni_radius>
+    <elektronegativnost>1.3</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.8</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      543.92
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      19.9
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      15.65
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.08</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.113
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      54
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Tin</ime>
+    <atomska_masa>118.71</atomska_masa>
+    <atomski_broj>50</atomski_broj>
+    <oksidacijski_broj>4, 2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2876</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">505.12</tocka_taljenja>
+    <simbol>Sn</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      7.31
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d10 5s2 p2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.41</kovalentni_radius>
+    <elektronegativnost>1.96</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.62</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      290.37
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      16.3
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      7.2
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.344</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.228
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      66.6
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Titanium</ime>
+    <atomska_masa>47.88</atomska_masa>
+    <atomski_broj>22</atomski_broj>
+    <oksidacijski_broj>4, 3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3560</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1945</tocka_taljenja>
+    <simbol>Ti</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      4.54
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d2 4s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.32</kovalentni_radius>
+    <elektronegativnost>1.54</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.45</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      425.2
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      10.6
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      18.6
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.82</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.523
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      21.9
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Thallium</ime>
+    <atomska_masa>204.383</atomska_masa>
+    <atomski_broj>81</atomski_broj>
+    <oksidacijski_broj>3, 1</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1746</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">577</tocka_taljenja>
+    <simbol>Tl</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      11.85
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d10 6s2 p1 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.48</kovalentni_radius>
+    <elektronegativnost>2.04</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.71</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      162.09
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      17.2
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      4.27
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.108</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.129
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      46.1
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Thulium</ime>
+    <atomska_masa>168.9342</atomska_masa>
+    <atomski_broj>69</atomski_broj>
+    <oksidacijski_broj>3, 2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">2223</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1818</tocka_taljenja>
+    <simbol>Tm</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      9.32
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f13 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.56</kovalentni_radius>
+    <elektronegativnost>1.25</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.77</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      191
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      18.1
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      16.8
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.184</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.16
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      16.8
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Uranium</ime>
+    <atomska_masa>238.029</atomska_masa>
+    <atomski_broj>92</atomski_broj>
+    <oksidacijski_broj>6, 5, 4, 3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">4407</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1408</tocka_taljenja>
+    <simbol>U</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      18.95
+    </gustoca>
+    <konfiguracija_elektrona>[Rn] 5f3 6d1 7s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.42</kovalentni_radius>
+    <elektronegativnost>1.38</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.38</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      422.58
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      12.5
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      15.48
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.05</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.12
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      27.6
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>ununbium</ime>
+    <atomska_masa>277</atomska_masa>
+    <atomski_broj>112</atomski_broj>
+    <simbol>Uub</simbol>
+    <konfiguracija_elektrona>[Rn] 5f14 6d10 7s2 </konfiguracija_elektrona>
+
+
+
+  </atom>
+
+  <atom>
+    <ime>ununnilium</ime>
+    <atomska_masa>269</atomska_masa>
+    <atomski_broj>110</atomski_broj>
+    <simbol>Uun</simbol>
+    <konfiguracija_elektrona>[Rn] 5f14 6d8 7s2 </konfiguracija_elektrona>
+
+
+
+  </atom>
+
+  <atom>
+    <ime>unununium</ime>
+    <atomska_masa>272</atomska_masa>
+    <atomski_broj>111</atomski_broj>
+    <simbol>Uuu</simbol>
+    <konfiguracija_elektrona>[Rn] 5f14 6d9 7s2 </konfiguracija_elektrona>
+
+
+
+  </atom>
+
+  <atom>
+    <ime>Vanadium</ime>
+    <atomska_masa>50.9415</atomska_masa>
+    <atomski_broj>23</atomski_broj>
+    <oksidacijski_broj>5, 4, 3, 2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3650</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">2163</tocka_taljenja>
+    <simbol>V</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      6.11
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d3 4s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.22</kovalentni_radius>
+    <elektronegativnost>1.63</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.34</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      446.7
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      8.35
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      20.8
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.74</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.489
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      30.7
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Tungsten</ime>
+    <atomska_masa>183.85</atomska_masa>
+    <atomski_broj>74</atomski_broj>
+    <oksidacijski_broj>6, 5, 4, 3, 2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">5825</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">3695</tocka_taljenja>
+    <simbol>W</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      19.3
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 5d4 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.3</kovalentni_radius>
+    <elektronegativnost>2.36</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.41</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      422.58
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      9.53
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      35.4
+    </toplina_fuzije>
+    <potencijal_ionizacije>7.98</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.13
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      174
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom stanje="plin">
+    <ime>Xenon</ime>
+    <atomska_masa>131.29</atomska_masa>
+    <atomski_broj>54</atomski_broj>
+    <tocka_vrenja jedinice="Kelvin">165.1</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">161.39</tocka_taljenja>
+    <simbol>Xe</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      5.9
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d10 5s2 p6 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.31</kovalentni_radius>
+    <elektronegativnost>2.6</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.24</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      12.64
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      42.9
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      2.3
+    </toplina_fuzije>
+    <potencijal_ionizacije>12.13</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.158
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      0.00569
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Yttrium</ime>
+    <atomska_masa>88.9059</atomska_masa>
+    <atomski_broj>39</atomski_broj>
+    <oksidacijski_broj>3</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">3611</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">1795</tocka_taljenja>
+    <simbol>Y</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      4.47
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d1 5s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.62</kovalentni_radius>
+    <elektronegativnost>1.22</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.78</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      363.3
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      19.8
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      17.5
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.38</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.3
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      17.2
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Ytterbium</ime>
+    <atomska_masa>173.04</atomska_masa>
+    <atomski_broj>70</atomski_broj>
+    <oksidacijski_broj>3, 2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1469</tocka_vrenja>
+    <tocka_vrenja jedinice="Kelvin">
+      1092
+    </tocka_vrenja>
+    <simbol>Yb</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      6.97
+    </gustoca>
+    <konfiguracija_elektrona>[Xe] 4f14 6s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.7</kovalentni_radius>
+    <elektronegativnost>1.1</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.94</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      128
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      24.8
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      7.7
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.254</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.155
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      34.9
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Zinc</ime>
+    <atomska_masa>65.39</atomska_masa>
+    <atomski_broj>30</atomski_broj>
+    <oksidacijski_broj>2</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">1180</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">692.73</tocka_taljenja>
+    <simbol>Zn</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      7.13
+    </gustoca>
+    <konfiguracija_elektrona>[Ar] 3d10 4s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.25</kovalentni_radius>
+    <elektronegativnost>1.65</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.38</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      115.3
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      9.2
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      7.38
+    </toplina_fuzije>
+    <potencijal_ionizacije>9.394</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.388
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      116
+    </termalna_konduktivnost>
+  </atom>
+
+  <atom>
+    <ime>Zirconium</ime>
+    <atomska_masa>91.224</atomska_masa>
+    <atomski_broj>40</atomski_broj>
+    <oksidacijski_broj>4</oksidacijski_broj>
+    <tocka_vrenja jedinice="Kelvin">4682</tocka_vrenja>
+    <tocka_taljenja jedinice="Kelvin">2128</tocka_taljenja>
+    <simbol>Zr</simbol>
+    <gustoca jedinice="grami/kubicni centimetri">
+      <!-- At 300K -->
+      6.51
+    </gustoca>
+    <konfiguracija_elektrona>[Kr] 4d2 5s2 </konfiguracija_elektrona>
+    <kovalentni_radius jedinice="Angstrema">1.45</kovalentni_radius>
+    <elektronegativnost>1.33</elektronegativnost>
+    <atomski_radius jedinice="Angstrema">1.6</atomski_radius>
+    <toplina_vaporizacije jedinice="kJ/mola">
+      590.5
+    </toplina_vaporizacije>
+    <atomski_volumen jedinice="kubičnih centimetara/mola">
+      14.1
+    </atomski_volumen>
+    <toplina_fuzije jedinice="kJ/mola">
+      21
+    </toplina_fuzije>
+    <potencijal_ionizacije>6.84</potencijal_ionizacije>
+    <specificni_kapacitet_topline jedinice="Džula/grama/stupnjeva Kelvina">
+      0.278
+    </specificni_kapacitet_topline>
+    <termalna_konduktivnost jedinice="Vata/metara/stupnjeva Kelvina">
+      <!-- At 300K -->
+      22.7
+    </termalna_konduktivnost>
+  </atom>
+
+</periodicna_tabela>
