@@ -1,1 +1,132 @@
-<
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Napredni filtri za namirnice</title>
+    <style>
+        table {
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .green {
+            background-color: green;
+        }
+        .orange {
+            background-color: orange;
+        }
+        .red {
+            background-color: red;
+        }
+    </style>
+    <script>
+        var xml;
+
+        function loadXML() {
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.open("GET", "tablica_kalorija.xml", true);
+            xmlhttp.send();
+            xmlhttp.onreadystatechange = function () {
+                if (xmlhttp.readyState === 4 && xmlhttp.status === 200) {
+                    xml = xmlhttp.responseXML;
+                }
+            }
+        }
+
+        function updateFilters() {
+            var minKcal = parseInt(document.getElementById("minKcal").value) || 0;
+            var maxKcal = parseInt(document.getElementById("maxKcal").value) || Number.MAX_VALUE;
+            var selectedTip = document.getElementById("foodType").value;
+            var minBjelancevine = parseFloat(document.getElementById("minBjelancevine").value) || 0;
+            var maxMasti = parseFloat(document.getElementById("maxMasti").value) || Number.MAX_VALUE;
+
+            var namirnice = xml.getElementsByTagName("namirnica");
+            var output = "<table><tr><th>Rd. br.</th><th>Namirnica</th><th>kcal</th><th>kJ</th><th>Ugljikohidrati</th><th>Bjelančevine</th><th>Masti</th></tr>";
+            var count = 0;
+
+            for (var i = 0; i < namirnice.length; i++) {
+                var naziv = namirnice[i].getElementsByTagName("naziv")[0].childNodes[0].nodeValue;
+                var kcal = parseFloat(namirnice[i].getElementsByTagName("energija")[1].childNodes[0].nodeValue);
+                var kj = namirnice[i].getElementsByTagName("energija")[0].childNodes[0].nodeValue;
+                var ugljikohidrati = namirnice[i].getElementsByTagName("uh")[0].childNodes[0].nodeValue;
+                var bjelancevine = parseFloat(namirnice[i].getElementsByTagName("bjelancevine")[0].childNodes[0].nodeValue);
+                var masti = parseFloat(namirnice[i].getElementsByTagName("masti")[0].childNodes[0].nodeValue);
+                var tipNamirnice = namirnice[i].parentNode.getAttribute("tip");
+
+                if (
+                    (kcal >= minKcal && kcal <= maxKcal) &&
+                    (selectedTip === "SVE" || selectedTip === tipNamirnice) &&
+                    (bjelancevine >= minBjelancevine) &&
+                    (masti <= maxMasti)
+                ) {
+                    count++;
+                    var rowClass = "";
+                    if (kcal <= 100) {
+                        rowClass = "green";
+                    } else if (kcal > 100 && kcal <= 200) {
+                        rowClass = "orange";
+                    } else {
+                        rowClass = "red";
+                    }
+                    
+                    output += `<tr class="${rowClass}">
+                                <td>${count}</td>
+                                <td>${naziv}</td>
+                                <td>${kcal}</td>
+                                <td>${kj}</td>
+                                <td>${ugljikohidrati}</td>
+                                <td>${bjelancevine}</td>
+                                <td>${masti}</td>
+                               </tr>`;
+                }
+            }
+
+            output += "</table>";
+            document.getElementById("resultsCount").innerText = count;
+            document.getElementById("results").innerHTML = output;
+        }
+    </script>
+</head>
+<body onload="loadXML();">
+    <h1><b>Napredni filtri za namirnice</b></h1>
+    <br>
+    <div>
+        Minimalne kalorije (kcal): <input type="text" id="minKcal">
+        Maksimalne kalorije (kcal): <input type="text" id="maxKcal">
+	</div>
+	<div>
+        Tip hrane: 
+        <select id="foodType">
+            <option value="SVE">SVE</option>
+            <option value="mlijeko">Mlijeko I MLIJEČNI PROIZVODI</option>
+            <option value="meso">MESO I MESNE PRERAĐEVINE</option>
+            <option value="riba">RIBA</option>
+            <option value="zitarice">PROIZVODI OD ŽITARICA</option>
+            <option value="krumpir">KRUMPIR I PROIZVODI OD KRUMPIRA</option>
+            <option value="voce">VOĆE</option>
+            <option value="povrce">POVRĆE</option>
+            <option value="masti">MASNOĆE</option>
+            <option value="jaja">JAJA</option>
+            <option value="slatkisi">SLATKIŠI</option>
+            <option value="pica">PIĆA</option>
+        </select>
+	</div>
+	<div>
+        Minimalne bjelančevine (g): <input type="text" id="minBjelancevine">
+        Maksimalne masti (g): <input type="text" id="maxMasti">
+    </div>
+    <br>
+    <button onclick="updateFilters()">Filtriraj</button>
+    <br><br>
+    <div><b>Ukupno pronađeno:</b> <b><span id="resultsCount" >0</span></b></div>
+    <div id="results"></div>
+</body>
+</html>
